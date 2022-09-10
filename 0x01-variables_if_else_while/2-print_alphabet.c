@@ -1,11 +1,11 @@
 #include <stdio.h>
+
 /**
- * main - main block
- *  
- * Description: use 'putchar' function  to print the alphabet in lowercase.
- * 
- * Return: 0
- */
+* main - print the alphabet in lowercase.
+*
+* return: always 0.
+*/
+
 int main(void)
 {
 	char letter;
