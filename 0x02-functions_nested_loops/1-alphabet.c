@@ -5,7 +5,6 @@
  *
  * description: print alphabet in lowcase, followed my a new line
  *
- *return:0
  */
 
 void print_alphabet(void)
@@ -14,10 +13,11 @@ void print_alphabet(void)
 
 	ch = 'a';
 
-	while (ch <= 'z')
+while (ch <= 'z')
 {
-	_putchar(ch);
-	ch++;
+_putchar(ch);
+ch++;
 }
-	_putchar('\n');
-}  
+
+_putchar('/n');
+}
