@@ -8,18 +8,18 @@
  *return:0
  */
 
-int main(void)
+   void print_alphabet(void)
 {
-       	char text[15]:"print alphabet";
-       int i= 0;
 
-       for (i=0;i<15;i++)
- {
+char ch;
 
-	 _putchar(text[i]);
- }
+ch = 'a';
 
-       _putchar("/n");
-
-return:(0);
+while (ch <= 'z')
+{
+_putchar(ch);
+ch++;
 }
+
+_putchar('\n');
+}  
