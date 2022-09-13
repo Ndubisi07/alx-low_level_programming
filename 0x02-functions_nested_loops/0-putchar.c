@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include "main.h" 
 
 /**
- * main - main
+ * main - print _putchat
+ *
  * decription print _putchar
  *
  * return:0 
