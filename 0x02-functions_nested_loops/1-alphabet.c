@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - print alphabet
+ * print alphabet in lowcase. followed my a new line
  *
- * description: print alphabet in lowcase, followed my a new line
- *
+ *return: always 0 (success)
  */
 
 void print_alphabet(void)

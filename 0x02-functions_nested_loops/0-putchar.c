@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - print _putchat
- *
- * decription print _putchar
+ *main-  print _putchar
  *
  * return:Always 0 (Success)
  */
